@@ -34,7 +34,7 @@ int main()
 - terminate with a null char
 - c++ inserts null char
 - my na is - storted as
-| `m` | `n` | ` ` | `n` | `a` | ` ` | `i` | `s` | `0` |
+| `m` | `y` | ` ` | `n` | `a` | ` ` | `i` | `s` | `'0'` |
 
 
 
